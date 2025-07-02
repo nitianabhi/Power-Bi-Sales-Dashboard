@@ -1,4 +1,4 @@
-# Power-Bi-Sales-Dashboard 
+# SuperStore-Sales-Dashboard 
 
 
 ## Project Objective:
