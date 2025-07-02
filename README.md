@@ -27,3 +27,4 @@ The end goal is to share valuable insights and actionable information that can d
 ## 5. Learning:
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
+https://github.com/user-attachments/assets/2a597f3c-1877-4e2b-b74d-b1c3f7fa97c4
