@@ -2,7 +2,7 @@
 
 
 ## Project Objective:
- This is a power bi end to end project ,To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+ In this Power BI project  we will learn how to import data, clean and process data, design dashboard, use of advance charts and maps, filters and slicers, forecasting in power bi, export dashboard as pdf, project insights and learnings. To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 
 ## Description:
@@ -26,3 +26,4 @@ The end goal is to share valuable insights and actionable information that can d
 
 ## 5. Learning:
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
